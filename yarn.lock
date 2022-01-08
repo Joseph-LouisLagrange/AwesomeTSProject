@@ -4499,6 +4499,11 @@ jetifier@^1.6.2:
   resolved "https://registry.nlark.com/jetifier/download/jetifier-1.6.8.tgz#e88068697875cbda98c32472902c4d3756247798"
   integrity sha1-6IBoaXh1y9qYwyRykCxNN1Ykd5g=
 
+jetify@^1.0.2:
+  version "1.0.2"
+  resolved "https://registry.npmmirror.com/jetify/download/jetify-1.0.2.tgz#f0c8558d97abeecd8cd374ecb6a301afdef4a7de"
+  integrity sha1-8MhVjZer7s2M03TstqMBr970p94=
+
 joi@^17.2.1:
   version "17.5.0"
   resolved "https://registry.npmmirror.com/joi/download/joi-17.5.0.tgz"

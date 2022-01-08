@@ -12,7 +12,7 @@ export class Home extends React.Component<HomeProp,HomeState>{
 
     render(): React.ReactNode {
         return (
-           <Text>Home---</Text> 
+           <Text>Home</Text> 
         );
     }
 }
